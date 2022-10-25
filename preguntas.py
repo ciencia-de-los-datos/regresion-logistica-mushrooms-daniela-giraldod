@@ -65,7 +65,7 @@ def read_data(input):
     )
     return datos
 
-df = read_data("mushrooms.csv",sep = ",")
+df = read_data("mushrooms.csv")
 
 def pregunta_01():
     """
